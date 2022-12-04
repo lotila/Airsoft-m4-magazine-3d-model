@@ -2,8 +2,9 @@ Airsoft m4 magazine, rubber band version
 
 My goal was to make a small magazine at a low cost. So rather than having one big magazine at the airsoft field. I could have many small ones and make the game more realistic.
 
-The first video at the bottom of the page shows the operation of the magazine. 
-The second video shows how to assemble the magazine.
+[Youtube overview video](https://youtu.be/Fpss9nV4ZOA)
+
+[YouTube assembly video](https://youtu.be/4C9eRvLlT90)
 
 ### Features:
 
@@ -44,4 +45,9 @@ The second video shows how to assemble the magazine.
 
 - If the rubber band is very stiff, you won't be able to load the magazine fully.
 
+### Links:
+
+[Files from Github](https://github.com/lotila/Airsoft-m4-magazine-3d-model)
+
+[Files from thingiverse](https://www.thingiverse.com/)
 
